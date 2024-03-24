@@ -10,7 +10,7 @@ body {
 }
 
 #qr-container {
-    width: 350px;
+    width: 365px;
     background-color: #fff;
     border-radius: 20px;
     margin-top: 7rem;
@@ -18,27 +18,35 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    box-shadow: 10px 10px 12px #7b879d
 }
 
 .qr-code-img {
     text-align: center;
-    
+
 }
 
 .qr-code-img img {
     width: 100%;
     padding: 1rem;
-    border-radius: 25px;
+    border-radius: 30px;
 }
+
 p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     padding: 1rem;
+
     margin-top: -15px;
-    
+    color: #7b879d
 }
+
 h2 {
+    width: 355px;
     text-align: center;
-    padding: 1rem;
+    padding: .5rem;
     font-size: 1.5rem;
     margin-top: -10px;
+    color: #1f3251;
+
+
 }
